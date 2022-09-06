@@ -6,3 +6,5 @@ Faça o download dos 6 arquivos de instalação, descompacte o Setup.zip e proce
 Leia o manual do usuário <Manual.pdf>
 
 Obtenha o token de acesso em www.alias.seg.br/token
+
+Colabore com o desenvolvimento dos softwares de tecnologias policiais: Acesse www.vakinha.com.br/2933216
